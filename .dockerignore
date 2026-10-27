@@ -1,0 +1,11 @@
+**/.git
+**/.gitignore
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/.idea
+Dockerfile*
+docker-compose*
+*.md
+plan/
